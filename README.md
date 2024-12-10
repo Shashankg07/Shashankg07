@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shashankg07
-- 👀 I’m interested in data science and python/golang programing
-- 🌱 I’m currently working on python
+- 👀 I’m interested in data science and python/golang programing/React/Node.js
+- 🌱 I’m currently working on React and Golang
 - 📫 How to reach me gmail :- shashankgorana07@gmail.com
                      linkedin:-https://www.linkedin.com/in/shashank-gorana-090314168/
 
